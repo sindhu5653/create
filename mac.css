@@ -1,0 +1,201 @@
+body{
+    margin: 0px;
+    /* background-color: black; */
+}
+.main{
+    background-color: black;
+}
+.main .navbar{
+    background-color: rgba(128, 128, 128, 0.203);
+    padding: 5px;
+    text-align: center;
+    margin-top: 20px;
+}
+.navbar a{
+    margin-left: 30px;
+    text-decoration: none;
+    color: white;
+}
+.heading{
+    color: white;
+    text-align: center;
+}
+.headinga{
+    color: white;
+    text-align: center;
+}
+.main_headinga{
+    font-size: 33px;
+}
+.sub_headinga{
+    font-size: 20px;
+    margin-top: -30px;
+}
+.heading1{
+    color: black;
+    background-color: white;
+    text-align: center;
+}
+.main_heading{
+    font-size: 40px;
+}
+.sub_heading{
+    font-size: 25px;
+    margin-top: -30px;
+}
+.button{
+    text-align: center;
+}
+.button .btn{
+    width: 120px;
+    background-color: skyblue;
+    color: white;
+    font-weight: 600;
+    border: 1px solid black;
+}
+.button .btn2{
+    width: 120px;
+    background-color: transparent;
+    color: skyblue;
+    font-weight: 600;
+    border:1px solid blue;
+}
+.button1{
+    text-align: center;
+    background-color: white;
+}
+.button1 .btna{
+    width: 120px;
+    background-color: skyblue;
+    color: black;
+    font-weight: 600;
+    /* border: 1px solid; */
+}
+.button1 .btnb{
+    width: 120px;
+    background-color: transparent;
+    color: skyblue;
+    font-weight: 600;
+    border:1px solid blue;
+}
+.button .btn2{
+    width: 60px;
+    background-color: transparent;
+    color: skyblue;
+    font-weight: 600;
+    border: 1px solid skyblue;
+}
+.img img{
+    width: 100%;
+}
+.img img1{
+    width: 100%;
+}
+
+.gphs1{
+    display: flex;
+
+}
+.gph1,.gph2{
+    margin: 10px;
+}
+.iphone{
+    text-align: center;
+    padding-top: 40px;
+}
+.iphonep{
+    text-align: center;
+    font-size: 19px;
+    font-weight: 400;
+    letter-spacing: .012em;
+    padding-top: 10px;
+}
+.gph1btn{
+    border-radius: 30px;
+    height: 35px; 
+    width: 112px; 
+    background-color: black; 
+    color: #0071E3; 
+    border: 1px solid #0071E3;
+}
+.gph1btn:hover{
+    background-color: #0071E3;
+    color: white;
+}
+.gph2btn{
+    border-radius: 30px;
+    height: 35px; 
+    width: 112px; 
+    background-color: white; 
+    color: #0071E3; 
+    border: 1px solid #0071E3;
+}
+.gph2btn:hover{
+    background-color: #0071E3;
+    color: white;
+}
+.gph2-2btn{
+    font-size: 14px;
+    line-height: 1.42859;
+    font-weight: 400;
+    letter-spacing: -.016em;
+    border-radius: 30px;
+    height: 35px;
+    width: 61px;
+    background-color: black;
+    color: #0071E3;
+    border: 1px solid #0071E3;
+}
+.gph2-2btn:hover{
+    background-color: #0071E3;
+    color: white;
+}
+.parag{
+    margin: auto;
+    text-align: left;
+    width: 980px;
+    font-size: 12px;
+    color: #0000008F;
+    padding: 2px;
+}
+.parag a{
+    text-decoration: underline;
+    color: #0000008F;
+}
+footer{
+    font-size: 12px;
+    color: #000000B8;
+}
+.footer{
+    display:inline-flex;
+    padding: 10px;
+    gap: 5px;
+    
+}
+ul{
+    list-style: none;
+    text-align: left;
+}
+.mainli{
+    padding-bottom: 14px;
+}
+li{
+    padding-bottom: 10px;
+    padding-right: 80px;
+}
+footer a{
+    color: #0071E3;
+    text-decoration: underline;
+}
+.fosec2{
+    text-align: left;
+}
+.footp{
+    display: flex;
+}
+.footset{
+    width: 1000px;
+    height: 540px;
+    
+    margin: auto;
+}
